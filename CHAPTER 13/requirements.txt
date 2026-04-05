@@ -1,0 +1,14 @@
+comtypes==1.4.16
+distlib==0.4.0
+filelock==3.25.2
+numpy==2.4.4
+pandas==3.0.2
+platformdirs==4.9.4
+pypiwin32==223
+python-dateutil==2.9.0.post0
+python-discovery==1.2.1
+pyttsx3==2.99
+pywin32==311
+six==1.17.0
+tzdata==2026.1
+virtualenv==21.2.0
